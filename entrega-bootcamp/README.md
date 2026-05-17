@@ -8,9 +8,9 @@ Repositório criado para a disciplina de Bootcamp 1 (Engenharia de Software - CE
 
 \## Estrutura de Pastas
 
-\- `/projetos-academicos`: Trabalhos da faculdade.
+\- `/projetos-academicos`: 
 
-\- `/projetos-pessoais`: Projetos independentes e estudos.
+\- `/projetos-pessoais`: 
 
 
 
