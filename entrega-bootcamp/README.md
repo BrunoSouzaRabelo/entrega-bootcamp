@@ -14,35 +14,57 @@ Repositório desenvolvido para centralizar, organizar e versionar meus projetos 
 
 ---
 
-## 💻 Projetos e Atividades em Destaque / Diretórios
+#  Portfólio de Engenharia de Software - Bruno Rabelo
 
-### 1. Extensão Universitária: Chatbot de Inclusão Digital para Idosos (Grupo MCJB)
-- **O que é:** Proposta de um projeto de ACES (Atividade de Cultura e Extensão) focada em resolver um problema social real: a dificuldade de idosos no ambiente digital. O grupo planejou o desenvolvimento de um chatbot com Inteligência Artificial adaptado para os idosos vinculados ao Movimento Comunitário de Jardim Botânico (MC JB).
-- **Objetivo:** Facilitar o acesso a serviços básicos e promover a inclusão digital desse público de forma simples e intuitiva.
-- **Área:** Engenharia de Software / Projetos de Extensão e IA.
+Bem-vindo ao meu repositório de versionamento e documentação de projetos. Este espaço foi inicialmente estruturado como requisito prático para a disciplina de **Bootcamp 1** no CEUB, com o objetivo de aplicar as melhores práticas de mercado em controle de versão, arquitetura de arquivos e documentação técnica.
 
-### 2. Pesquisa Técnica: Modelos de Banco de Dados
-- **O que é:** Atividade de análise comparativa e contextualização histórica sobre a evolução dos modelos de bancos de dados da década de 1960 até os dias atuais.
-- **Conteúdo:** Estudo focado na linha do tempo dos modelos (Hierárquico, em Rede, Relacional e NoSQL) e debate técnico sobre qual arquitetura entrega melhor performance para grandes volumes de dados e buscas rápidas em sistemas modernos (como o ecossistema NoSQL utilizando MongoDB, Redis, etc.).
-- **Área:** Arquitetura de Software / Banco de Dados.
-
-### 3. Modelagem de Dados: Diagramas Conceituais (Arquivos .brM3)
-- **O que é:** Desenvolvimento prático de modelagem de dados utilizando a ferramenta brModelo. Foram construídos diagramas conceituais estruturando entidades, atributos e relacionamentos de sistemas.
-- **Objetivo:** Fixar conceitos de modelagem lógica e conceitual indispensáveis para o mapeamento e criação de bancos de dados eficientes e normalizados.
-- **Área:** Engenharia de Dados / Modelagem de Sistemas.
 
 ---
 
-## 🛠️ Tecnologias de Versionamento Utilizadas
-- **Git:** Controle de versão local.
-- **GitHub:** Hospedagem do código fonte na nuvem.
-- **GitHub Pages:** Deploy e publicação do site do portfólio.
-- **Markdown:** Documentação técnica.
-- **Gemini:** Obtenção e organização de informações 
+## 💻 Projetos Acadêmicos e Atividades em Destaque / diretório
 
-## 📬 Contato Profissional
-- **E-mail:** bruno.rabelo@sempreceub.com
+Abaixo estão detalhadas as atividades e projetos desenvolvidos que compõem a base técnica deste portfólio até o momento:
 
+### 1. Projeto de Extensão (ACES): Chatbot de IA para Atendimento Comunitário
+* **Modalidade:** Trabalho em Grupo (Desenvolvido em parceria com o Grupo MCJB).
+* **Contexto e Problema:** O Movimento Comunitário do Jardim Botânico (MCJB) lida diariamente com demandas de atendimento, suporte e engajamento da comunidade local. O fluxo manual de interações pode gerar gargalos e atrasos nas respostas.
+* **Solução Proposta:** Planejamento e estruturação de uma proposta inicial para um **Chatbot integrado com Inteligência Artificial**. A ferramenta foi idealizada para automatizar o primeiro nível de atendimento do MCJB, oferecendo respostas rápidas, auxiliando na triagem de dúvidas frequentes e promovendo a inclusão digital dos membros da comunidade de forma intuitiva.
+* **Área Técnica:** Engenharia de Requisitos, Inteligência Artificial Aplicada e Projetos de Extensão.
+
+### 2. Pesquisa Técnica: Evolução dos Modelos de Banco de Dados
+* **Modalidade:** Trabalho em Grupo.
+* **Descrição:** Estudo aprofundado e análise comparativa cobrindo a linha do tempo dos sistemas de gerência de dados desde a década de 1960. A pesquisa aborda as características, vantagens e limitações dos modelos:
+  1. *Hierárquico* (estruturas em árvore baseadas em pai/filho).
+  2. *Em Rede* (relacionamentos mais complexos e flexíveis).
+  3. *Relacional* (estruturação consolidada em tabelas utilizando SQL).
+  4. *NoSQL* (surgido nos anos 2000, focado em alta escalabilidade, flexibilidade e performance).
+* **Componente Prático (Debate):** Análise de caso focado em escalabilidade e performance arquitetural. O estudo concluiu que para sistemas de grande porte com milhões de registros e necessidade de buscas em tempo real (como grandes bibliotecas digitais), os modelos NoSQL superam os relacionais em desempenho devido à flexibilidade de esquemas e distribuição de dados.
+* **Área Técnica:** Arquitetura de Dados e Análise de Sistemas.
+
+### 3. Modelagem de Sistemas: Diagramas Conceituais (Arquivos `.brM3`)
+* **Modalidade:** Atividade Prática Individual / Fixação.
+* **Descrição:** Utilização prática da ferramenta *brModelo* para a criação de modelos conceituais de bancos de dados. A atividade consistiu no mapeamento de cenários reais através da identificação e criação de:
+  - Entidades e Atributos específicos.
+  - Relacionamentos e suas respectivas cardinalidades.
+  - Entidades associativas e conceitos de especialização/generalização.
+* **Objetivo:** Desenvolver o raciocínio abstrato necessário para traduzir regras de negócio do mundo real em esquemas lógicos e estruturados de armazenamento de dados.
+* **Área Técnica:** Engenharia de Dados e Modelagem Conceitual.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas Utilizadas
+* **Git:** Utilizado para o controle de versão local, criação de commits e gerenciamento do histórico de modificações.
+* **GitHub:** Plataforma de nuvem utilizada para hospedar o código-fonte de maneira segura e permitir o trabalho colaborativo.
+* **GitHub Pages:** Serviço de hospedagem utilizado para realizar o *deploy* (publicação) automático da página inicial deste portfólio na internet.
+* **Markdown:** Linguagem de marcação leve utilizada para a escrita desta documentação técnica (`README.md`).
+
+---
+
+## 📬 Contato Profissional e Acadêmico
+* **Nome:** Bruno Rabelo
+* **Instituição:** Centro Universitário de Brasília (CEUB)
+* **Curso:** Engenharia de Software
+* **E-mail Institucional:** bruno.rabelo@sempreceub.com
 
 
 
