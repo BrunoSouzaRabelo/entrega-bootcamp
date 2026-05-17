@@ -22,7 +22,7 @@ Repositório desenvolvido para centralizar, organizar e versionar meus projetos 
 
 ### 1. Extensão Universitária: Chatbot de Inclusão Digital para Idosos (Grupo MCJB)
 - **O que é:** Proposta de um projeto de ACES (Atividade de Cultura e Extensão) focada em resolver um problema social real: a dificuldade de idosos no ambiente digital. O grupo planejou o desenvolvimento de um chatbot com Inteligência Artificial adaptado para os idosos vinculados ao Movimento Comunitário de Jardim Botânico (MC JB).
-- **Objetivo:** Facilitar o acesso a serviços básicos e promover a inclusão digital desse público de forma simples e intuitiva.
+- **Objetivo:** Facilitar o acesso a serviços básicos e promover a inclusão digital desse público de forma simples e intuitiva. 
 - **Área:** Engenharia de Software / Projetos de Extensão e IA.
 
 ### 2. Pesquisa Técnica: Modelos de Banco de Dados
