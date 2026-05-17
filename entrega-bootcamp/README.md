@@ -57,6 +57,7 @@ Abaixo estão detalhadas as atividades e projetos desenvolvidos que compõem a b
 * **GitHub:** Plataforma de nuvem utilizada para hospedar o código-fonte de maneira segura e permitir o trabalho colaborativo.
 * **GitHub Pages:** Serviço de hospedagem utilizado para realizar o *deploy* (publicação) automático da página inicial deste portfólio na internet.
 * **Markdown:** Linguagem de marcação leve utilizada para a escrita desta documentação técnica (`README.md`).
+* **Gemini:** Obtenção e organização de informações
 
 ---
 
