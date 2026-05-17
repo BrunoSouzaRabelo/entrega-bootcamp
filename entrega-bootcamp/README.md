@@ -8,21 +8,17 @@ Repositório criado para a disciplina de Bootcamp 1 (Engenharia de Software - CE
 
 \## Estrutura de Pastas
 
-\- `/projetos-academicos`: # 🚀 Portfólio Acadêmico e Profissional - Bruno Rabelo
+\- `/projetos-academicos`: #  Portfólio Acadêmico e Profissional - Bruno Rabelo
 
 Repositório desenvolvido para centralizar, organizar e versionar meus projetos acadêmicos e técnicos durante o curso de Engenharia de Software no CEUB, iniciando pela disciplina de **Bootcamp 1**.
 
-## 📂 Estrutura de Diretórios
-- **/projetos-academicos**: Trabalhos práticos, relatórios e códigos desenvolvidos para as disciplinas da faculdade.
-- **/projetos-pessoais**: Espaço reservado para meus estudos independentes, testes de tecnologias e projetos próprios.
-
 ---
 
-## 💻 Projetos e Atividades em Destaque
+## 💻 Projetos e Atividades em Destaque / Diretórios
 
 ### 1. Extensão Universitária: Chatbot de Inclusão Digital para Idosos (Grupo MCJB)
 - **O que é:** Proposta de um projeto de ACES (Atividade de Cultura e Extensão) focada em resolver um problema social real: a dificuldade de idosos no ambiente digital. O grupo planejou o desenvolvimento de um chatbot com Inteligência Artificial adaptado para os idosos vinculados ao Movimento Comunitário de Jardim Botânico (MC JB).
-- **Objetivo:** Facilitar o acesso a serviços básicos e promover a inclusão digital desse público de forma simples e intuitiva. 
+- **Objetivo:** Facilitar o acesso a serviços básicos e promover a inclusão digital desse público de forma simples e intuitiva.
 - **Área:** Engenharia de Software / Projetos de Extensão e IA.
 
 ### 2. Pesquisa Técnica: Modelos de Banco de Dados
@@ -42,6 +38,7 @@ Repositório desenvolvido para centralizar, organizar e versionar meus projetos 
 - **GitHub:** Hospedagem do código fonte na nuvem.
 - **GitHub Pages:** Deploy e publicação do site do portfólio.
 - **Markdown:** Documentação técnica.
+- **Gemini:** Obtenção e organização de informações 
 
 ## 📬 Contato Profissional
 - **E-mail:** bruno.rabelo@sempreceub.com
@@ -57,6 +54,3 @@ Repositório desenvolvido para centralizar, organizar e versionar meus projetos 
 
 
 \## Contato
-
-E-mail: bruno.rabelo@sempreceub.com
-
