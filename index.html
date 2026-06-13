@@ -2,19 +2,151 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>Portfólio - Bruno Rabelo</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio Profissional - Bruno Rabelo</title>
+    <style>
+        * { box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background-color: #f5f7fa;
+            color: #334155;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background: linear-gradient(135deg, #1e293b, #3b82f6);
+            color: white;
+            padding: 60px 20px;
+            text-align: center;
+        }
+        header h1 { margin: 0; font-size: 2.5rem; font-weight: 700; }
+        header p { margin: 10px 0 0; font-size: 1.2rem; opacity: 0.9; }
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+        .intro-card {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+        }
+        h2 {
+            color: #0f172a;
+            border-left: 4px solid #3b82f6;
+            padding-left: 12px;
+            margin-top: 40px;
+            font-size: 1.6rem;
+        }
+        .project-card {
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
+            margin-bottom: 20px;
+            border: 1px solid #e2e8f0;
+        }
+        .project-card h3 { margin-top: 0; color: #2563eb; font-size: 1.3rem; }
+        .tag {
+            background-color: #eff6ff;
+            color: #1d4ed8;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            display: inline-block;
+            margin-bottom: 10px;
+        }
+        .tech-grid {
+            display: block;
+            background: #fff;
+            padding: 25px;
+            border-radius: 12px;
+            border: 1px solid #e2e8f0;
+        }
+        .tech-item {
+            margin-bottom: 12px;
+            padding-bottom: 12px;
+            border-bottom: 1px dashed #e2e8f0;
+        }
+        .tech-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+        .tech-item strong { color: #0f172a; }
+        .contact-section {
+            background: #1e293b;
+            color: white;
+            padding: 30px;
+            border-radius: 12px;
+            text-align: center;
+            margin-top: 40px;
+        }
+        .contact-section a {
+            color: #60a5fa;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.1rem;
+        }
+        .contact-section a:hover { text-decoration: underline; }
+    </style>
 </head>
 <body>
-    <h1>Olá! Meu nome é Bruno Rabelo</h1>
-    <h2>Estudante de Engenharia de Software no CEUB</h2>
-    <p>Bem-vindo ao meu repositório da matéria de Bootcamp 1.</p>
 
-    <h3>Meus Projetos</h3>
-    <ul>
-        <li><strong>Acadêmicos:</strong> Trabalhos da faculdade.</li>
-        <li><strong>Pessoais:</strong> Meus estudos de programação.</li>
-    </ul>
+    <header>
+        <h1>Bruno Rabelo</h1>
+        <p>Estudante de Engenharia de Software — CEUB</p>
+    </header>
 
-    <p>Contato: bruno.rabelo@sempreceub.com</p>
+    <div class="container">
+        
+        <div class="intro-card">
+            <p>Olá! Seja muito bem-vindo ao meu portfólio. Este espaço foi inicialmente estruturado como um requisito prático para a disciplina de <strong>Bootcamp 1</strong> no CEUB. Meu principal objetivo aqui é aplicar na prática os conceitos mais modernos de mercado voltados para controle de versão, documentação técnica, segurança de repositórios e deploy contínuo.</p>
+        </div>
+
+        <h2>💻 Projetos Acadêmicos e Atividades em Destaque</h2>
+
+        <div class="project-card">
+            <span class="tag">Engenharia de Requisitos & IA</span>
+            <h3>1. Projeto de Extensão (ACES): Chatbot de IA para Atendimento Comunitário</h3>
+            <p><strong>Modalidade:</strong> Trabalho em Grupo (desenvolvido em parceria com o Grupo MCJB).</p>
+            <p><strong>Contexto e Desafio:</strong> O Movimento Comunitário do Jardim Botânico lida diariamente com um grande volume de demandas e interações da comunidade local, o que gerava gargalos e atrasos no modelo de atendimento manual tradicional.</p>
+            <p><strong>Solução:</strong> Atuei no planejamento e estruturação da proposta inicial de um chatbot inteligente. A ferramenta foi idealizada para automatizar os primeiros níveis de atendimento, garantindo respostas instantâneas para as dúvidas mais comuns e auxiliando na inclusão digital dos membros da comunidade.</p>
+        </div>
+
+        <div class="project-card">
+            <span class="tag">Arquitetura de Dados</span>
+            <h3>2. Pesquisa Técnica: Evolução dos Modelos de Banco de Dados</h3>
+            <p><strong>Modalidade:</strong> Trabalho em Grupo.</p>
+            <p><strong>Descrição:</strong> Realizamos um estudo histórico focado na evolução dos sistemas de armazenamento de dados desde a década de 1960 até os dias atuais, comparando os modelos Hierárquico, em Rede, Relacional (SQL) e NoSQL.</p>
+            <p><strong>Componente Prático:</strong> Lideramos um debate focado em escalabilidade. Concluímos que para sistemas modernos de alta performance, que processam milhões de requisições simultâneas, os ecossistemas NoSQL superam os bancos de dados relacionais devido à flexibilidade de seus esquemas.</p>
+        </div>
+
+        <div class="project-card">
+            <span class="tag">Modelagem Conceitual</span>
+            <h3>3. Modelagem de Sistemas: Diagramas Conceituais (.brM3)</h3>
+            <p><strong>Modalidade:</strong> Atividade Prática Individual de Fixação.</p>
+            <p><strong>Descrição:</strong> Utilização da ferramenta <em>brModelo</em> para construir esquemas lógicos e conceituais aplicados a regras de negócios reais.</p>
+            <p><strong>Objetivo:</strong> Mapeamento de entidades, atributos, cardinalidades e relacionamentos complexos, desenvolvendo a capacidade abstrata essencial para estruturar qualquer software comercial.</p>
+        </div>
+
+        <h2>🛠️ Tecnologias e Ferramentas Utilizadas</h2>
+        <div class="tech-grid">
+            <div class="tech-item"><strong>Git:</strong> Essencial para o controle de versão local, criação do histórico de commits e segurança das alterações.</div>
+            <div class="tech-item"><strong>GitHub:</strong> Hospedagem segura na nuvem, permitindo rastreabilidade do código e recursos de governança.</div>
+            <div class="tech-item"><strong>GitHub Pages:</strong> Utilizado para o deploy automatizado desta página em ambiente de produção na web.</div>
+            <div class="tech-item"><strong>Markdown:</strong> Criação e formatação estruturada da documentação técnica (README.md e SECURITY.md).</div>
+            <div class="tech-item"><strong>Gemini:</strong> Utilizado de forma consultiva na organização de ideias, boas práticas de segurança e documentação.</div>
+        </div>
+
+        <div class="contact-section">
+            <h3>📬 Contato Acadêmico e Profissional</h3>
+            <p>Se quiser conversar sobre Engenharia de Software ou parcerias em projetos, fique à vontade para entrar em contato:</p>
+            <p><a href="mailto:bruno.rabelo@sempreceub.com">bruno.rabelo@sempreceub.com</a></p>
+            <p style="font-size: 0.85rem; opacity: 0.7; margin-top: 15px;">Portfólio atualizado na versão v1.0</p>
+        </div>
+
+    </div>
+
 </body>
 </html>
